@@ -1,5 +1,4 @@
-1. 
-DESCRIPTION
+## Part 1 DESCRIPTION
  
 This project aims to help users to Assess COVID-19's Impact on US Restaurants Through Yelp Data.
 We mainly investigate on following two areas: 
@@ -9,10 +8,10 @@ We obtained over 200k raw data of the small business details and special service
 We combined with most recent yelp data by API scraping to evaluate the influence on close ratio. 
 Utilize NLTK and LDA model, we uncover how review topic and sentiment change during covid.
 Detailed interactive visualization and summary is hosted in tableau public as following link:
-https://public.tableau.com/profile/yaozhen1140#!/vizhome/Team018AssessCOVID-19ImpactonUSRestaurants_ThroughYelpDatav3/Story1?publish=yes
+https://public.tableau.com/profile/yaozhen1140#!/vizhome/Team018AssessCOVID-19ImpactonUSRestaurants_ThroughYelpDatav3/Story1?publish=yes 
+   
 
-2. 
-INSTALLATION
+## Part 2 INSTALLATION
 
 We use python to analyze yelp data and train model. So, choose an python environment before installation. Recommend Anaconda
     1. Install requirement packages as listed in the requirement.txt
@@ -31,5 +30,5 @@ We use python to analyze yelp data and train model. So, choose an python environ
     6. For visualization of the project, it is handled inside of the Tableau. You can find the detailed design logic in the tableau repository as mentioned above
     
     
-3.EXECUTION
+## Part 2 EXECUTION
 The visualization is host on tableau. You can run the application based on the tableau link above.
